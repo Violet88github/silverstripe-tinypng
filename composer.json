@@ -1,5 +1,5 @@
 {
-    "name": "kinglozzer/silverstripe-tinypng",
+    "name": "violet88/silverstripe-tinypng",
     "type": "silverstripe-vendormodule",
     "homepage": "https://github.com/kinglozzer/silverstripe-tinypng",
     "keywords": [
@@ -19,8 +19,8 @@
         "issues": "https://github.com/kinglozzer/silverstripe-tinypng/issues"
     },
     "require": {
-        "silverstripe/framework": "^4.0",
-        "silverstripe/assets": "^1.0",
+        "silverstripe/framework": "^4.0 || ^5.0",
+        "silverstripe/assets": "^2.0",
         "tinify/tinify": "^1.5"
     },
     "extra": {
